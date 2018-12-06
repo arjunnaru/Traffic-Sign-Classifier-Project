@@ -16,4 +16,4 @@ Project report - Traffic_Sign_Classifier_Test_Report.ipynb
 
 Code - Traffic_Sign_Classifier_Test_Code.ipynb
 
-Unzip train.p.zip in traffic-signs-data Folder
+Unzip 'train.p.zip' in 'traffic-signs-data' Folder
