@@ -1,2 +1,16 @@
 # Traffic-Sign-Classifier-Project
 Classifying traffic signs using Lenet based convolutional neural network
+
+1. The aim of the prject is to create a classifier to identify traffic signs from teh german dataset
+2. Accuracy on validation set must be greater than 93%
+3. Accuracy on 5 images downloaded from the internet were also tested
+
+
+## Notes:
+
+Code and Project description are Jupyter notebooks. Please use JUPYTER NOTEBOOK to view them completely.
+Link to install Jupyter notebook: http://jupyter.org/install
+
+Project report - CarND-Vehicle-Detection_Report.ipynb
+
+Code - CarND-Vehicle-Detection_Code.ipynb
